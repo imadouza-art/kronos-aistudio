@@ -1,0 +1,31 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Runtime Price and Log Dumps
+server_log.txt
+server_err.txt
+update_log.txt
+*.tmp
+
+# Preserve documentation, source, and config
+!requirements.txt
+!package.json
+!tsconfig.json
+!vite.config.ts

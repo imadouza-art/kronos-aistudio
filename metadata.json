@@ -1,0 +1,8 @@
+{
+  "name": "Remix Chronos AI Real-Time Predictor",
+  "description": "Real-time probabilistic time series forecasting powered by Amazon Chronos 100M parameter model architecture with live streaming market feeds and quantitative AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
